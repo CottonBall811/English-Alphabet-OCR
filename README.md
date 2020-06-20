@@ -12,4 +12,4 @@ The train.py is the training module.
 The value of weight and bias of different accuracy have been put up in the files.
 ## Further implementation
 The OCR application is looking forward to be implemented.
-***Your Suggestions and comments are welcome***
+***Your Suggestions and comments are welcome!***
