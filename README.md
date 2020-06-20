@@ -7,3 +7,5 @@ The structure of the neural network is shown in the following figure.
 ![neural network](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Neural_network_example.svg/1200px-Neural_network_example.svg.png)
 ## Source
 Training data can be accessed from <http://arxiv.org/abs/1702.05373> and <http://archive.ics.uci.edu/ml>.
+The preprocess.py is the module to convert the training data into numpy arrays.
+The 
