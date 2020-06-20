@@ -8,4 +8,8 @@ The structure of the neural network is shown in the following figure.
 ## Source
 Training data can be accessed from <http://arxiv.org/abs/1702.05373> and <http://archive.ics.uci.edu/ml>.
 The preprocess.py is the module to convert the training data into numpy arrays.
-The 
+The train.py is the training module.
+The value of weight and bias of different accuracy have been put up in the files.
+## Further implementation
+The OCR application is looking forward to be implemented.
+***Your Suggestions and comments are welcome***
